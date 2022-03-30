@@ -1,2 +1,2 @@
 # UTS-GameProgramming
-Repository for game development mid term.
+Repository for game development mid term test.
